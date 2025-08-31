@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-black">
+    <div class="container-fluid">
+    <a class="navbar-brand" href="index.html">F.A.S.H.I.O.N</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+    <ul class="navbar-nav">
+
+        <li class="nav-item">
+        <a class="nav-link" href="about.html">ماذا نقدم</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="serves.html">من نحن</a>
+        </li>
+                <li class="nav-item">
+        <a class="nav-link" href="brand.html">الماركات التى نتعامل معها</a>
+        </li>
+                <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="home.html">كيف تتواصل معنا</a>
+
+        </li>
+
+    </ul>
+    </div>
+    </div>
+</nav>
+
+
+
+
+
+
+
+  <div class="container">
+    <h1 class="fanan">ماذا نقدم في F.A.S.H.I.O.N؟</h1>
+
+    <div class="offer">
+      <h3>🛍️ ملابس عصرية بجودة عالية</h3>
+      <p>نقدم تشكيلة متنوعة من الملابس العصرية التي تناسب كل الأذواق: كاجوال، كلاسيك، رياضية، وسهرات – كلها بتصميمات حديثة وجودة تفصيل ممتازة.</p>
+    </div>
+
+    <div class="offer">
+      <h3>🎨 تصاميم حصرية ومواكبة للموضة</h3>
+      <p>نبتكر قطعًا فريدة لا تجدينها إلا عندنا. نصمم بعناية لنمنحكِ إطلالة متميزة تواكب أحدث صيحات الموضة العالمية.</p>
+    </div>
+
+    <div class="offer">
+      <h3>📦 شحن سريع وآمن</h3>
+      <p>نوصل لكِ طلبك أينما كنتِ في أسرع وقت، وبأعلى معايير التغليف، علشان توصلك القطعة كأنك لسه اشتريتيها بنفسك من المتجر.</p>
+    </div>
+
+    <div class="offer">
+      <h3>💳 أسعار في متناول الجميع</h3>
+      <p>نحرص على تقديم أفضل جودة بأفضل سعر، لأننا نؤمن إن الأناقة مش لازم تكون غالية.</p>
+    </div>
+
+    <div class="offer">
+      <h3>🤝 خدمة عملاء ودودة</h3>
+      <p>فريقنا موجود دائمًا للرد على أسئلتك، مساعدتك في اختيار المقاسات، أو متابعة الطلبات، علشان تكون تجربتك معنا مريحة وممتعة.</p>
+    </div>
+
+  </div>
