@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>F.A.S.H.I.O.N</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    
+
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-black">
+    <div class="container-fluid">
+    <a class="navbar-brand" href="index.html">F.A.S.H.I.O.N</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+    <ul class="navbar-nav">
+
+        <li class="nav-item">
+        <a class="nav-link" href="about.html">ماذا نقدم</a>
+        </li>
+        <li class="nav-item">
+        <a class="nav-link" href="serves.html">من نحن</a>
+        </li>
+                <li class="nav-item">
+        <a class="nav-link" href="brand.html">الماركات التى نتعامل معها</a>
+        </li>
+                <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="home.html">كيف تتواصل معنا</a>
+
+        </li>
+
+    </ul>
+    </div>
+    </div>
+</nav>
+
+
+
+
+<div class="container">
+    <h1 class="maroha">الماركات العالمية التي نقدمها</h1>
+
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4">
+
+    <div class="col">
+        <div class="brand-card">
+        <img src="img/dior.jpeg" alt="Dior Logo">
+        <h4>Dior</h4>
+        <p>أناقة فرنسية راقية وتصاميم ساحرة من دار ديور العالمية.</p>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="brand-card">
+        <img src="img/download (6).jpeg" alt="CHANEL">
+        <h4>Louis Vuitton</h4>
+        <p>أزياء فاخرة وجودة لا مثيل لها من دار لويس فيتون الشهيرة.</p>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="brand-card">
+        <img src="img/download (7).jpeg" alt="Prada Logo">
+        <h4>Prada</h4>
+    <p>تصاميم جريئة ولمسات عصرية تُميز كل قطعة من برادا.</p>
+        </div>
+    </div>
+
+    <div class="col">
+        <div class="brand-card">
+        <img src="img/draw.jpeg" alt="LOUIS VUITTON">
+        <h4>Gucci</h4>
+        <p>ماركة إيطالية تعكس الفخامة، الجرأة، والتفاصيل الفريدة.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
