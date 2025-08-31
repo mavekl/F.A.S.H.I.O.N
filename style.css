@@ -1,0 +1,236 @@
+
+
+
+nav a{
+    text-decoration: none;
+}
+
+nav ul{
+    list-style: none;
+    
+}
+
+
+
+
+
+.btn {
+list-style: none;
+color: #111;
+font-size: x-large;
+}
+
+
+
+
+
+
+
+
+.nav-link{
+    margin: 10px;
+}
+body {
+  direction: rtl;
+}
+
+    h1 {
+      color: #111;
+      margin-bottom: 20px;
+      font-weight: bold;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.8;
+    }
+    .brand {
+      color: #c2185b;
+      font-weight: bold;
+    }
+
+    img{
+        width: 300px;
+    }
+
+    .matac{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+    .batda{
+        margin: 20px;
+        border-radius: 50px;
+    }
+
+
+        body {
+      background-color: #fff;
+      font-family: 'Arial', sans-serif;
+      color: #333;
+      padding: 40px;
+    }
+
+    h1 {
+      color: #841c46;
+      font-weight: bold;
+      margin-bottom: 30px;
+    }
+
+    .offer {
+      background-color: #5a5050;
+      border-radius: 12px;
+      padding: 25px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 6px rgba(211, 6, 6, 0.1);
+      border: solid black;
+    }
+
+    .offer h3 {
+      color: whitesmoke;
+      margin-bottom: 10px;
+      
+    }
+
+    .offer p {
+      font-size: 17px;
+      line-height: 1.7;
+    }
+
+
+
+        body {
+      background-color:#5a5050;
+      font-family: 'Cairo', sans-serif;
+      padding: 40px;
+      color: whitesmoke;
+    }
+
+    h1 {
+      text-align: center;
+      color: #c2185b;
+      font-weight: bold;
+      margin-bottom: 40px;
+    }
+
+    .brand-card {
+      background-color: #5a5050         ;
+      border: 2px solid black;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+      transition: 0.3s ease;
+      text-align: center;
+      margin: 30px;
+    }
+
+    .brand-card:hover {
+      transform: scale(1.02);
+      box-shadow: 0 6px 14px rgba(0,0,0,0.1);
+    }
+
+    .brand-card img {
+      max-width: 100px;
+      margin-bottom: 15px;
+      border-radius: 20px;
+            border: 3px solid #00ffff;
+  border-radius: 15px;
+  box-shadow: 0 0 25px #00ffff;
+    }
+
+    .brand-card h4 {
+      font-weight: bold;
+      color: white;
+    }
+
+    .imgmariam{
+                  border: 3px solid #00ffff;
+  border-radius: 15px;
+  box-shadow: 0 0 25px #00ffff;
+  width: 200px;
+  
+    }
+
+
+
+
+
+
+
+
+
+
+@keyframes glow {
+  0% { box-shadow: 0 0 5px #0ff; }
+  50% { box-shadow: 0 0 20px #0ff; }
+  100% { box-shadow: 0 0 5px #0ff; }
+}
+
+
+
+@keyframes floatFlowers {
+  0% { background-position: 0 0; }
+  100% { background-position: 100px 100px; }
+}
+
+@keyframes glowFlowers {
+  0%, 100% { filter: brightness(1); }
+  50% { filter: brightness(1.6); }
+}
+
+
+
+
+
+
+
+
+
+    .brand-card p {
+      font-size: 15px;
+      color: whitesmoke;
+    }
+    .hero {
+      
+      background-size: cover;
+      background-position: center;
+      height: 80vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-shadow: 2px 2px 6px black;
+    }
+    .hero h1 {
+      font-size: 3rem;
+      font-weight: bold;
+    }
+    .section {
+      padding: 60px 0;
+    }
+    .btn-dark {
+      margin-top: 20px;
+    }
+    footer {
+      background-color: #111;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    .btn{
+      color: antiquewhite;
+    }
+
+    .maroha{
+      margin-top: 20px;
+    }
+
+    .calo{
+      margin-top: 20px;
+    }
+
+
+    .fanan{
+      margin-top: 20px;
+    }
